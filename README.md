@@ -23,5 +23,9 @@ python dependency-check-export.py xx.html
 ## 结果
 在xx.html同级文件下生成xx.xlsx
 
+## 效果
+![Uploading image.png…]()
+
+
 # 最后
 水平有限，姑且用用吧。
