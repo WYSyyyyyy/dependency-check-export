@@ -24,7 +24,8 @@ python dependency-check-export.py xx.html
 在xx.html同级文件下生成xx.xlsx
 
 ## 效果
-![Uploading image.png…]()
+![image](https://github.com/WYSyyyyyy/dependency-check-export/assets/19874247/63c0e2e7-8605-4479-973b-1ba37d4835d8)
+
 
 
 # 最后
